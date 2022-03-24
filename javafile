@@ -1,7 +1,7 @@
 public class testng {
 
 	public static void main(String[] args) {
-		System.out.println("THIS PROJECT HAS BEEN SUCCESSFULLY BUILT!");
+		System.out.println("THE CODE HAS BEEN RUN.");
 	}
 
 }
